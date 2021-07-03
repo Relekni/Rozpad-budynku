@@ -41,5 +41,7 @@ Model po przemianie polygonów w trójkąty może zostać wykorzystany do stworz
 ## Teksturowanie
 Model został dostosowany pod UDIM - siatka UV rozbita jest na 4 osobne tekstury, które mogą zostać stworzone np. w Substance Painterze i innych programach obsługujących UDIM.
 ![UDIM](https://user-images.githubusercontent.com/86862615/124340788-fcb2b380-dbb7-11eb-8963-407cbe0dad2a.JPG)
+![UDIM_painter](https://user-images.githubusercontent.com/86862615/124341002-9fb7fd00-dbb9-11eb-84e5-ab5412bf8089.JPG)
+
 
 
